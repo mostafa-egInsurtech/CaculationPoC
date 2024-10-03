@@ -2,7 +2,7 @@
 using System.Reflection.Emit;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 // app 
-Console.WriteLine("------------ Insurance Premium Calculation --------!");
+Console.WriteLine("------------ Car Insurance Premium Calculation --------!");
         //*create a request for 'name '
         Console.WriteLine("Please enter insured name :");
         var _name = Console.ReadLine();
