@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r2HUXCT1nOEudCtS/6Y/fkRDWD98Fm1vlXx6daH77r20eecMH6/YwoPsYmYGLvqW0hfXzEEuK4UVMJhdhBsf9A==",
+  "dgSpecHash": "YyUBPT2lRe7iC/DrMqSEDKDnn0C4VdRSbINZ5o+AxPuOPvrhzsJNPZ1eSYAEET4Iuk+npdrqkIdxtNLudHqOug==",
   "success": true,
-  "projectFilePath": "D:\\GIT\\Projects\\New\\CaculationPoC\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "D:\\GIT\\Projects\\CaculationPoC\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mostafa.Ahmed\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
     "C:\\Users\\Mostafa.Ahmed\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
